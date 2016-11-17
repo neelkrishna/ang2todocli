@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['angcli.component.css']
 })
 export class AngcliAppComponent {
-  title = 'angcli works!';
+  title = 'it works!';
 }
